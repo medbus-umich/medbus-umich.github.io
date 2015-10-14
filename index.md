@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MedBus Affairs!
-tagline: Supporting tagline
+tagline: Integration at work
 ---
 {% include JB/setup %}
 
