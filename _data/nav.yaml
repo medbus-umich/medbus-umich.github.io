@@ -1,0 +1,54 @@
+- title: "Home"
+  url: "/"
+  group: "navigation"
+
+- title: "About"
+  url: "/about.html"
+  group: "navigation"
+  subcategories:
+    - title: "The Project"
+      url: "/the_project.html"
+    - title: "Mission"
+      url: "/mission.html"
+    - title: "Success Stories"
+      url: "/success_stories.html"
+
+- title: "Driver Projects"
+  url: "/driver_projects.html"
+  group: "navigation"
+  subcategories:
+    - title: "Data Direct"
+      group: "navigation"
+      url: "/data_direct.html"
+    - title: "Emmerse"
+      url: "/emmerse.html"
+      group: "navigation"
+
+- title: "Platform & Tools"
+  url: "/platform_and_tools.html"
+  group: "navigation"
+
+- title: "Data Services"
+  url: "data_services.html"
+  group: "navigation"
+  subcategories:
+    - title: "Attestation Service"
+      url: "/attestation.html"
+    - title: "IRB Studies Service"
+      url: "/irb_studies.html"
+
+- title: "News"
+  url: "/news.html"
+  group: "navigation"
+
+- title: "Events"
+  url: "/events.html"
+  group: "navigation"
+
+- title: "Status"
+  url: "/status.html"
+  group: "navigation"
+
+- title: "Contact Us"
+  url: "/contact_us.html"
+  group: "navigation"
