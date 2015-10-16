@@ -2,6 +2,10 @@
   url: "/"
   group: "navigation"
 
+- title: "Platform & Tools"
+  url: "/platform_and_tools.html"
+  group: "navigation"
+
 - title: "About"
   url: "/about.html"
   group: "navigation"
@@ -16,33 +20,13 @@
 - title: "Driver Projects"
   url: "/driver_projects.html"
   group: "navigation"
-  subcategories:
-    - title: "Data Direct"
-      group: "navigation"
-      url: "/data_direct.html"
-    - title: "Emmerse"
-      url: "/emmerse.html"
-      group: "navigation"
-
-- title: "Platform & Tools"
-  url: "/platform_and_tools.html"
-  group: "navigation"
 
 - title: "Data Services"
-  url: "data_services.html"
-  group: "navigation"
-  subcategories:
-    - title: "Attestation Service"
-      url: "/attestation.html"
-    - title: "IRB Studies Service"
-      url: "/irb_studies.html"
-
-- title: "News"
-  url: "/news.html"
+  url: "/data_services.html"
   group: "navigation"
 
-- title: "Events"
-  url: "/events.html"
+- title: "News &amp; Events"
+  url: "/news_and_events.html"
   group: "navigation"
 
 - title: "Status"

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: News
-header: News
+title: News &amp; Events
+header: News &amp; Events
 group: navigation
 ---
 {% include JB/setup %}
