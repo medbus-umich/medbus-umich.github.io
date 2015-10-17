@@ -1,6 +1,6 @@
 ---
 layout: home
-title: MedBus&#58;
+title: MedBus
 tagline:
 ---
 <div class="row">

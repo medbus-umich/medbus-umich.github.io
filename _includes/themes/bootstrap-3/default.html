@@ -63,9 +63,9 @@
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
           </ul>
-          <form class="navbar-form navbar-right" role="search">
+          <form class="navbar-form navbar-right" role="Search" action="/search.html" method="get">
             <div class="form-group">
-              <input type="text" class="form-control" placeholder="Search">
+              <input type="text" id="search-query" name="q" class="form-control" placeholder="Search" autocomplete="off">
             </div>
             <button type="submit" class="btn btn-default">Submit</button>
           </form>
@@ -74,7 +74,28 @@
 
       <div class="container">
         {{ content }}
+
+        <section id="search-results" style="display: none;">
+          <p>Search results</p>
+          <div class="entries">
+          </div>
+        </section>
+
       </div>
+
+      {% raw %}
+      <script id="search-results-template" type="text/mustache">
+        {{#entries}}
+          <article>
+            <h3>
+              {{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
+              <a href="{{url}}">{{title}}</a>
+            </h3>
+          </article>
+        {{/entries}}
+      </script>
+      {% endraw %}
+
 
     </div>
 
@@ -91,5 +112,17 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/js/search.min.js" type="text/javascript" charset="utf-8"></script>
+
+    <script type="text/javascript">
+  $(function() {
+    $('#search-query').lunrSearch({
+      indexUrl: '/js/index.json',   // Url for the .json file containing search index data
+      results : '#search-results',  // selector for containing search results element
+      entries : '.entries',         // selector for search entries containing element (contained within results above)
+      template: '#search-results-template'  // selector for Mustache.js template
+    });
+  });
+</script>
   </body>
 </html>
