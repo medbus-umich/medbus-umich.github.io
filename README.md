@@ -1,12 +1,19 @@
-# MedBus - a SOA and ESB platform used for data integration within the University of Michigan
+# MedBus
+A SOA and ESB platform used for health data integration within the University of Michigan
+This is the content repository for the MedBus website. Content is mostly authored
+using [github flavoured](https://help.github.com/articles/github-flavored-markdown/) variant of the markdown syntax.
 
-This repository is the content repository for the MedBus website.
+# Usage
+The navigation structure in the website is controlled by _data/nav.yaml file and
+rendered in _includes/JB/pages_list. Modify _data/nav.yaml to change menu structure.
 
-## Usage
+Most top level pages are at the root folder - e.g. index.md, about.md, contact_us.md etc.
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+Add images to the assets/images folder.
 
-### TODOS
+For further usage and documentation please see: <http://jekyllbootstrap.com>
+
+## TODOS
 
 ## License
 
