@@ -8,7 +8,7 @@ group: navigation
 
 ### News
 
-* Attestation Service is now live
+* October 15, 2015 - [RedHat JBoss Data Virtualization](http://www.jboss.org/products/datavirt/overview/) added as an [MSIS](http://msis.med.umich.edu/) supported component of the MedBus platform. 
 
 ### Upcoming Events
 
