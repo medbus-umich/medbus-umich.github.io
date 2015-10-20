@@ -8,6 +8,8 @@ group: navigation
 
 ### News
 
+* October 20, 2015 - The Attestation service has been updated to version 1.0 and has been made available for test in the MedBus TEST environment.
+
 * October 15, 2015 - [RedHat JBoss Data Virtualization](http://www.jboss.org/products/datavirt/overview/) added as an [MSIS](http://msis.med.umich.edu/) supported component of the MedBus platform. 
 
 ### Upcoming Events
