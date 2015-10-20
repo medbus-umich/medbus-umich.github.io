@@ -17,3 +17,7 @@ Additional information on how to access to these self-serve data tools are avail
 ## NIH FAIR Data Mandates
 
 MedBus services are aligned to [NIH FAIR principles](http://grants.nih.gov/grants/NIH-Public-Access-Plan.pdf) of developing a [data commons infrastructure](https://datascience.nih.gov/commons) in which research data are Findable, Accessible, Interoperable and Reusable. Our infrastructure for UMHS research data services will increase the efficiency and effectiveness of research within UMHS, and will further enable researchers to meet the data sharing requirements of publicly funded research.
+
+## UM IT Initiatives
+
+MedBus services are aligned to UM and UMHS initiatives around IT services including the [comprehensive analytics services and support initiative](http://compass.medicine.umich.edu/). For example, we are working to establish definitions for common data elements used by MedBus in the [UMHS Information Management Glossary](https://infoglossary.med.umich.edu/index.php/Main_Page), and we will be leveraging a central API manager as part of a university wide effort to centralize API services within the university.
