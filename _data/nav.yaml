@@ -12,8 +12,10 @@
   subcategories:
     - title: "The Project"
       url: "/the_project.html"
-    - title: "Mission"
+    - title: "The Mission"
       url: "/mission.html"
+    - title: "The Team"
+      url: "/the_team.html"
     - title: "Success Stories"
       url: "/success_stories.html"
 
