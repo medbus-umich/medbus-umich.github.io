@@ -30,7 +30,7 @@ Amitava Shee is the architect responsible for anticipating, planning, and implem
 
 Contact: 734.288.8271 &#124; <amitava@umich.edu>
 
-#### Brian Rafferty, Business Systems Analyst Intermediate
+#### Brian Rafferty, Business Systems Analyst Senior
 
 Brian is a Business Analyst with the Research Data Strategy program in MSIS. His work at UMHS includes designing business processes and implementing software solutions to support the work of the Honest Broker Office (HBO). Brian is also involved in the UMHS's research IT initiatives, working with many innovative teams dedicated to raising research possibilities to a new level at U-M. In addition to his technical work, Brian assists in building coalitions wherever possible to help create synergy for these high-level, research-related efforts.
 
