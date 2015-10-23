@@ -10,8 +10,6 @@
   url: "/about.html"
   group: "navigation"
   subcategories:
-    - title: "The Project"
-      url: "/the_project.html"
     - title: "The Mission"
       url: "/the_mission.html"
     - title: "The Team"
