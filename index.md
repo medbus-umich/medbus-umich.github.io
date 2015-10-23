@@ -9,7 +9,7 @@ tagline:
     </div>
     <!-- /.col-md-8 -->
     <div class="col-md-4">
-        <h1>MedBus&trade;</h1>
+        <h1>MedBus</h1>
         <p>A service oriented architecture providing a medical data omnibus for the UMHS research data strategy</p>
         <a class="btn btn-primary btn-lg" href="#">Take a tour!</a>
     </div>
