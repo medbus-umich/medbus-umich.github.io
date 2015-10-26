@@ -5,7 +5,7 @@ tagline:
 ---
 <div class="row">
     <div class="col-md-8">
-        <img class="img-responsive img-rounded" src="http://placehold.it/900x350" alt="">
+        <img class="img-responsive img-rounded" src="assets/images/20089657073_29fa280128_c.jpg" alt="">
     </div>
     <!-- /.col-md-8 -->
     <div class="col-md-4">
