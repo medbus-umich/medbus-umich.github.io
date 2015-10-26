@@ -14,11 +14,11 @@ The purpose of the attestation service is to develop the beginnings of a framewo
 
 ### Training
 
-Given a UMHS user ID (uniqname) as input, this service identifies training that the user has completed in order to meet [PEERRS](http://my.research.umich.edu/peerrs/) requirements as well as any training required to access an individual application such as [DataDirect](datadirect.med.umich.edu) or [EMERSE](http://project-emerse.org/).
+Given a UMHS user ID ([uniqname](https://infoglossary.med.umich.edu/index.php/Uniqname)) as input, this service identifies training that the user has completed in order to meet [PEERRS](http://my.research.umich.edu/peerrs/) requirements as well as any training required to access an individual application such as [DataDirect](datadirect.med.umich.edu) or [EMERSE](http://project-emerse.org/).
 
 ### IRB Approved Studies
 
-Given a UMHS user ID (uniqname) as input, this service identifies the current set of active HUM IDs that a researcher can access protected data under, and reports the specific protected data domains that a user can access data from within the context of those studies. This web services reports on data housed in the [eResearch Human Subjects](http://www.mais.umich.edu/reporting/eresdataset.html) data warehouse which reports on data extracted nightly from the University of Michigan's [eResearch electronic research administration](http://eresearch.umich.edu/). This service is currently being tested to be used by [DataDirect](http://datadirect.med.umich.edu).
+Given a UMHS user ID ([uniqname](https://infoglossary.med.umich.edu/index.php/Uniqname)) as input, this service identifies the current set of active HUM IDs that a researcher can access protected data under, and reports the specific protected data domains that a user can access data from within the context of those studies. This web services reports on data housed in the [eResearch Human Subjects](http://www.mais.umich.edu/reporting/eresdataset.html) data warehouse which reports on data extracted nightly from the University of Michigan's [eResearch electronic research administration](http://eresearch.umich.edu/). This service is currently being tested to be used by [DataDirect](http://datadirect.med.umich.edu).
 
 ### Waveform
 
