@@ -14,7 +14,7 @@ The purpose of the attestation service is to develop the beginnings of a framewo
 
 ### Training
 
-Given a UMHS user ID ([uniqname](https://infoglossary.med.umich.edu/index.php/Uniqname)) as input, this service identifies training that the user has completed in order to meet [PEERRS](http://my.research.umich.edu/peerrs/) requirements as well as any training required to access an individual application such as [DataDirect](datadirect.med.umich.edu) or [EMERSE](http://project-emerse.org/).
+Given a UMHS user ID ([uniqname](https://infoglossary.med.umich.edu/index.php/Uniqname)) as input, this service identifies training that the user has completed in order to meet instituional requirements for handling protected data as well as any training required to access an individual application such as [DataDirect](http://datadirect.med.umich.edu) or [EMERSE](http://project-emerse.org/). The training requirements data 
 
 ### IRB Approved Studies
 
