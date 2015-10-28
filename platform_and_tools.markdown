@@ -6,4 +6,4 @@ group: navigation
 ---
 {% include JB/setup %}
 
-Platform &amp; Tools
+<img src="assets/images/medbus_arch.svg" widgh="900" height="600">
