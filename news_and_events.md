@@ -19,7 +19,7 @@ group: navigation
 
 
 * November 24, 2015 - Come learn more about MedBus at the [University of Michigan IT Symposium](http://cio.umich.edu/michigan-it/michigan-it-symposium.php). We will be presenting posters on multiple topics:
-  - MedBus KPI - Measuring the success of a service-oriented architecture
+  - [MedBus KPI - Measuring the success of a service-oriented architecture](assets/pdf/2015_michigan_it_medbus_kpi.pdf)
   - MedBus Attestation Service
   - MedBus and Data Virtualization
 
