@@ -12,8 +12,6 @@ group: navigation
 
 * October 15, 2015 - [RedHat JBoss Data Virtualization](http://www.jboss.org/products/datavirt/overview/) added as an [MSIS](http://msis.med.umich.edu/) supported component of the MedBus platform. 
 
-### Upcoming Events
-
 * November 16, 2015 - MedBus will be repesented at the evening Poster Session evening during the [2015 AMIA Annual Symposium](https://www.amia.org/amia2015)
   - [MedBus : A service-oriented architecture for enabling the research data economy](assets/pdf/2015_AMIA_MedBus_Poster.pdf)
 
@@ -23,3 +21,6 @@ group: navigation
   - MedBus Attestation Service
   - MedBus and Data Virtualization
 
+### Upcoming Events
+
+* March 23, 2016 - A poster on expanding MedBus capabilities with JBoss Data Virtualization will be presented at the [2016 AMIA Joint Summits on Translational Science](https://www.amia.org/jointsummits2016). 
