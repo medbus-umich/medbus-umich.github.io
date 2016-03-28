@@ -15,7 +15,6 @@ group: navigation
 * November 16, 2015 - MedBus will be repesented at the evening Poster Session evening during the [2015 AMIA Annual Symposium](https://www.amia.org/amia2015)
   - [MedBus : A service-oriented architecture for enabling the research data economy](assets/pdf/2015_AMIA_MedBus_Poster.pdf)
 
-
 * November 24, 2015 - Come learn more about MedBus at the [University of Michigan IT Symposium](http://cio.umich.edu/michigan-it/michigan-it-symposium.php). We will be presenting posters on multiple topics:
   - [MedBus KPI - Measuring the success of a service-oriented architecture](assets/pdf/2015_michigan_it_medbus_kpi.pdf)
   - MedBus Attestation Service
@@ -23,4 +22,5 @@ group: navigation
 
 ### Upcoming Events
 
-* March 23, 2016 - A poster on expanding MedBus capabilities with JBoss Data Virtualization will be presented at the [2016 AMIA Joint Summits on Translational Science](https://www.amia.org/jointsummits2016). 
+* March 23, 2016 - A poster on expanding MedBus capabilities with JBoss Data Virtualization will be presented at the [2016 AMIA Joint Summits on Translational Science](https://www.amia.org/jointsummits2016).
+  - [Accelerating Clinical Informatics with Data Virtualization in the MedBus Service-Oriented Architecture](assets/pdf/2016_AMIACRI_MedBus_DataVirt.pdf)
